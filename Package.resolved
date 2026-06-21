@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "councilkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/albertofettucini/CouncilKit.git",
+      "state" : {
+        "revision" : "d6251bbef0e1bd710c87d713b45a126f760bf42f",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
